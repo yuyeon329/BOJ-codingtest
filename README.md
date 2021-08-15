@@ -4,7 +4,7 @@
 #### [백준 단계별로 풀기](https://www.acmicpc.net/step) 의 문제들을 각각 Python, Java, Javascript로 풀이한 레포입니다.
 -----
 
-각 문제를 3개의 언어로 풀이한 뒤, 해설이 필요하거나 개념정리가 필요한 문제는 Velog에 정리하였습니다.
+각 문제를 3개의 언어로 풀이한 뒤, 해설이 필요하거나 개념정리가 필요한 문제는 [Velog](https://velog.io/@yuyeon)에 정리하였습니다.
 
 -----
 |단계|단계 제목|문제 번호|제목|Python|Java|Javascript|해설|개념 정리|
