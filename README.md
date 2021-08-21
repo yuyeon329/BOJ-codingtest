@@ -39,10 +39,10 @@
 |4|while문|[10952](https://www.acmicpc.net/problem/10952)|A+B-5|[code](step/python/10952.py)|[code](step/java/src/boj_10952/Main.java)|-|-|-|
 |||[10951](https://www.acmicpc.net/problem/10951)|A+B-4|[code](step/python/10951.py)|[code](step/java/src/boj_10951/Main.java)|-|-|-|
 |||[1110](https://www.acmicpc.net/problem/1110)|더하기 사이클|[code](step/python/1110.py)|[code](step/java/src/boj_1110/Main.java)|-|-|-|
-|5|1차원 배열|[10818](https://www.acmicpc.net/problem/10818)|최소, 최대|[code](step/python/10818.py)|[code]|-|-|-|
-|||[2562](https://www.acmicpc.net/problem/2562)|최댓값|[code](step/python/2562.py)|[code]|-|-|-|
-|||[2577](https://www.acmicpc.net/problem/2577)|숫자의 개수|[code](step/python/2577.py)|[code]|-|-|-|
-|||[3052](https://www.acmicpc.net/problem/3052)|나머지|[code](step/python/3052.py)|[code]|-|-|-|
-|||[1546](https://www.acmicpc.net/problem/1546)|평균|[code](step/python/1546.py)|[code]|-|-|-|
-|||[8958](https://www.acmicpc.net/problem/8958)|OX퀴즈|[code](step/python/8958.py)|[code]|-|-|-|
-|||[4344](https://www.acmicpc.net/problem/4344)|평균은 넘겠지|[code](step/python/4344.py)|[code]|-|-|-|
+|5|1차원 배열|[10818](https://www.acmicpc.net/problem/10818)|최소, 최대|[code](step/python/10818.py)|[code](step/java/src/boj_10818/Main.java)|-|-|-|
+|||[2562](https://www.acmicpc.net/problem/2562)|최댓값|[code](step/python/2562.py)|[code](step/java/src/boj_2562/Main.java)|-|-|-|
+|||[2577](https://www.acmicpc.net/problem/2577)|숫자의 개수|[code](step/python/2577.py)|[code](step/java/src/boj_2577/Main.java)|-|-|-|
+|||[3052](https://www.acmicpc.net/problem/3052)|나머지|[code](step/python/3052.py)|[code](step/java/src/boj_3052/Main.java)|-|-|-|
+|||[1546](https://www.acmicpc.net/problem/1546)|평균|[code](step/python/1546.py)|[code](step/java/src/boj_1546/Main.java)|-|-|-|
+|||[8958](https://www.acmicpc.net/problem/8958)|OX퀴즈|[code](step/python/8958.py)|[code](step/java/src/boj_8958/Main.java)|-|-|-|
+|||[4344](https://www.acmicpc.net/problem/4344)|평균은 넘겠지|[code](step/python/4344.py)|[code](step/java/src/boj_4344/Main.java)|-|-|-|
