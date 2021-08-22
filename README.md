@@ -47,5 +47,5 @@
 |||[8958](https://www.acmicpc.net/problem/8958)|OX퀴즈|[code](step/python/8958.py)|[code](step/java/src/boj_8958/Main.java)|-|-|-|
 |||[4344](https://www.acmicpc.net/problem/4344)|평균은 넘겠지|[code](step/python/4344.py)|[code](step/java/src/boj_4344/Main.java)|-|-|-|
 |6|함수|[15596](https://www.acmicpc.net/problem/15596)|최소, 최대|[code](step/python/15596.py)|[code](step/java/src/boj_15596/Main.java)|-|-|-|
-|||[4673](https://www.acmicpc.net/problem/4673)|최소, 최대|[code](step/python/4673.py)|[code](step/java/src/boj_4673/Main.java)|-|-|-|
-|||[1065](https://www.acmicpc.net/problem/1065)|최소, 최대|[code](step/python/1065.py)|[code](step/java/src/boj_1065/Main.java)|-|-|-|
+|||[4673](https://www.acmicpc.net/problem/4673)|최소, 최대|[code](step/python/4673.py)|[code](step/java/src/boj_4673/Main.java)|-|link|-|
+|||[1065](https://www.acmicpc.net/problem/1065)|최소, 최대|[code](step/python/1065.py)|[code](step/java/src/boj_1065/Main.java)|-|link|-|
