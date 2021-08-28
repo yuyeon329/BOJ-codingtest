@@ -49,3 +49,13 @@
 |6|함수|[15596](https://www.acmicpc.net/problem/15596)|최소, 최대|[code](step/python/15596.py)|[code](step/java/src/boj_15596/Main.java)|-|-|-|
 |||[4673](https://www.acmicpc.net/problem/4673)|최소, 최대|[code](step/python/4673.py)|[code](step/java/src/boj_4673/Main.java)|-|link|-|
 |||[1065](https://www.acmicpc.net/problem/1065)|최소, 최대|[code](step/python/1065.py)|[code](step/java/src/boj_1065/Main.java)|-|link|-|
+|7|문자열|[11654](https://www.acmicpc.net/problem/11654)|최소, 최대|[code](step/python/11654.py)|[code]|-|-|-|
+|||[11720](https://www.acmicpc.net/problem/11720)|최소, 최대|[code](step/python/11720.py)|[code]|-|-|-|
+|||[10809](https://www.acmicpc.net/problem/10809)|최소, 최대|[code](step/python/10809.py)|[code]|-|-|-|
+|||[2675](https://www.acmicpc.net/problem/2675)|최소, 최대|[code](step/python/2675.py)|[code]|-|-|-|
+|||[1157](https://www.acmicpc.net/problem/1157)|최소, 최대|[code](step/python/1157.py)|[code]|-|-|-|
+|||[1152](https://www.acmicpc.net/problem/1152)|최소, 최대|[code](step/python/1152.py)|[code]|-|-|-|
+|||[2908](https://www.acmicpc.net/problem/2908)|최소, 최대|[code](step/python/2908.py)|[code]|-|-|-|
+|||[5622](https://www.acmicpc.net/problem/5622)|최소, 최대|[code](step/python/5622.py)|[code]|-|-|-|
+|||[2941](https://www.acmicpc.net/problem/2941)|최소, 최대|[code](step/python/2941.py)|[code]|-|-|-|
+|||[1316](https://www.acmicpc.net/problem/1316)|최소, 최대|[code](step/python/1316.py)|[code]|-|-|-|
