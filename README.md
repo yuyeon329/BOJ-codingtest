@@ -59,3 +59,12 @@
 |||[5622](https://www.acmicpc.net/problem/5622)|다이얼|[code](step/python/5622.py)|[code](step/java/src/boj_5622/Main.java)|-|-|-|
 |||[2941](https://www.acmicpc.net/problem/2941)|크로아티아 알파벳|[code](step/python/2941.py)|[code](step/java/src/boj_2941/Main.java)|-|-|-|
 |||[1316](https://www.acmicpc.net/problem/1316)|그룹 단어 |[code](step/python/1316.py)|[code](step/java/src/boj_1316/Main.java)|-|-|-|
+|8|기본 수학 1|[1712](https://www.acmicpc.net/problem/1712)|손익분기점|[code](step/python/1712.py)|[code]|-|-|-|
+|||[2292](https://www.acmicpc.net/problem/2292)|벌집|[code](step/python/2292.py)|[code]|-|-|-|
+|||[1193](https://www.acmicpc.net/problem/1193)|분수찾기|[code](step/python/1193.py)|[code]|-|-|-|
+|||[2869](https://www.acmicpc.net/problem/2869)|달팽이는 올라가고 싶다|[code](step/python/2869.py)|[code]|-|-|-|
+|||[10250](https://www.acmicpc.net/problem/10250)|ACM 호텔|[code](step/python/10250.py)|[code]|-|-|-|
+|||[2275](https://www.acmicpc.net/problem/2275)|부녀회장이 될테야|[code](step/python/2275.py)|[code]|-|-|-|
+|||[2839](https://www.acmicpc.net/problem/2839)|설탕 배달|[code](step/python/2839.py)|[code]|-|-|-|
+|||[10757](https://www.acmicpc.net/problem/10757)|큰 수 A+B|[code](step/python/10757.py)|[code]|-|-|-|
+|||[1011](https://www.acmicpc.net/problem/1011)|Fly me to the Alpha Centauri|[code](step/python/1011.py)|[code]|-|-|-|
