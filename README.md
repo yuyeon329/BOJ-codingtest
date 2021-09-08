@@ -46,19 +46,19 @@
 |||[1546](https://www.acmicpc.net/problem/1546)|평균|[code](step/python/1546.py)|[code](step/java/src/boj_1546/Main.java)|-|-|-|
 |||[8958](https://www.acmicpc.net/problem/8958)|OX퀴즈|[code](step/python/8958.py)|[code](step/java/src/boj_8958/Main.java)|-|-|-|
 |||[4344](https://www.acmicpc.net/problem/4344)|평균은 넘겠지|[code](step/python/4344.py)|[code](step/java/src/boj_4344/Main.java)|-|-|-|
-|6|함수|[15596](https://www.acmicpc.net/problem/15596)|최소, 최대|[code](step/python/15596.py)|[code](step/java/src/boj_15596/Test.java)|-|-|-|
-|||[4673](https://www.acmicpc.net/problem/4673)|최소, 최대|[code](step/python/4673.py)|[code](step/java/src/boj_4673/Main.java)|-|link|-|
-|||[1065](https://www.acmicpc.net/problem/1065)|최소, 최대|[code](step/python/1065.py)|[code](step/java/src/boj_1065/Main.java)|-|link|-|
+|6|함수|[15596](https://www.acmicpc.net/problem/15596)|정수 N개의 합|[code](step/python/15596.py)|[code](step/java/src/boj_15596/Test.java)|-|-|-|
+|||[4673](https://www.acmicpc.net/problem/4673)|셀프 넘버|[code](step/python/4673.py)|[code](step/java/src/boj_4673/Main.java)|-|[link](https://velog.io/@yuyeon/4673-%EC%85%80%ED%94%84-%EB%84%98%EB%B2%84BOJ%EB%8B%A8%EA%B3%84%EB%B3%84%EB%A1%9C-%ED%92%80%EC%96%B4%EB%B3%B4%EA%B8%B0%ED%95%A8%EC%88%98Silver-5)|-|
+|||[1065](https://www.acmicpc.net/problem/1065)|한수|[code](step/python/1065.py)|[code](step/java/src/boj_1065/Main.java)|-|[link](https://velog.io/@yuyeon/1065-%ED%95%9C%EC%88%98-%ED%95%A8%EC%88%98Silver-4)|-|
 |7|문자열|[11654](https://www.acmicpc.net/problem/11654)|아스키 코드|[code](step/python/11654.py)|[code](step/java/src/boj_11654/Main.java)|-|-|-|
 |||[11720](https://www.acmicpc.net/problem/11720)|숫자의 합|[code](step/python/11720.py)|[code](step/java/src/boj_11720/Main.java)|-|-|-|
 |||[10809](https://www.acmicpc.net/problem/10809)|알파벳 찾기|[code](step/python/10809.py)|[code](step/java/src/boj_10809/Main.java)|-|-|-|
 |||[2675](https://www.acmicpc.net/problem/2675)|문자열 반복|[code](step/python/2675.py)|[code](step/java/src/boj_2675/Main.java)|-|-|-|
-|||[1157](https://www.acmicpc.net/problem/1157)|단어 공부|[code](step/python/1157.py)|[code](step/java/src/boj_1157/Main.java)|-|-|-|
+|||[1157](https://www.acmicpc.net/problem/1157)|단어 공부|[code](step/python/1157.py)|[code](step/java/src/boj_1157/Main.java)|-|[link](https://velog.io/@yuyeon/1157-%EB%8B%A8%EC%96%B4-%EA%B3%B5%EB%B6%80-%EB%AC%B8%EC%9E%90%EC%97%B4-Bronze-1)|-|
 |||[1152](https://www.acmicpc.net/problem/1152)|단어의 개수|[code](step/python/1152.py)|[code](step/java/src/boj_1152/Main.java)|-|-|-|
 |||[2908](https://www.acmicpc.net/problem/2908)|상수|[code](step/python/2908.py)|[code](step/java/src/boj_2908/Main.java)|-|-|-|
 |||[5622](https://www.acmicpc.net/problem/5622)|다이얼|[code](step/python/5622.py)|[code](step/java/src/boj_5622/Main.java)|-|-|-|
 |||[2941](https://www.acmicpc.net/problem/2941)|크로아티아 알파벳|[code](step/python/2941.py)|[code](step/java/src/boj_2941/Main.java)|-|-|-|
-|||[1316](https://www.acmicpc.net/problem/1316)|그룹 단어 |[code](step/python/1316.py)|[code](step/java/src/boj_1316/Main.java)|-|-|-|
+|||[1316](https://www.acmicpc.net/problem/1316)|그룹 단어 |[code](step/python/1316.py)|[code](step/java/src/boj_1316/Main.java)|-|[link](https://velog.io/@yuyeon/1316-%EA%B7%B8%EB%A3%B9-%EB%8B%A8%EC%96%B4-%EC%B2%B4%EC%BB%A4-%EB%AC%B8%EC%9E%90%EC%97%B4Silver-5)|-|
 |8|기본 수학 1|[1712](https://www.acmicpc.net/problem/1712)|손익분기점|[code](step/python/1712.py)|[code]|-|-|-|
 |||[2292](https://www.acmicpc.net/problem/2292)|벌집|[code](step/python/2292.py)|[code]|-|-|-|
 |||[1193](https://www.acmicpc.net/problem/1193)|분수찾기|[code](step/python/1193.py)|[code]|-|-|-|
