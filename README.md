@@ -68,3 +68,14 @@
 |||[2839](https://www.acmicpc.net/problem/2839)|설탕 배달|[code](step/python/2839.py)|[code](step/java/src/boj_2839/Main.java)|-|-|-|
 |||[10757](https://www.acmicpc.net/problem/10757)|큰 수 A+B|[code](step/python/10757.py)|[code](step/java/src/boj_10757/Main.java)|-|-|-|
 |||[1011](https://www.acmicpc.net/problem/1011)|Fly me to the Alpha Centauri|[code](step/python/1011.py)|[code](step/java/src/boj_1011/Main.java)|-|-|-|
+|9|기본 수학 2|[1978](https://www.acmicpc.net/problem/1978)|소수 찾기|[code](step/python/1978.py)|[code]|-|-|-|
+|||[2581](https://www.acmicpc.net/problem/2581)|소수|[code](step/python/2581.py)|[code]|-|-|-|
+|||[11653](https://www.acmicpc.net/problem/11653)|소인수분해|[code](step/python/11653.py)|[code]|-|-|-|
+|||[1929](https://www.acmicpc.net/problem/1929)|소수 구하기|[code](step/python/1929.py)|[code]|-|-|-|
+|||[4948](https://www.acmicpc.net/problem/4948)|베르트랑 공준|[code](step/python/4948.py)|[code]|-|-|-|
+|||[9020](https://www.acmicpc.net/problem/9020)|골드바흐의 추측|[code](step/python/9020.py)|[code]|-|-|-|
+|||[1085](https://www.acmicpc.net/problem/1085)|직사각형에서의 탈출|[code](step/python/1085.py)|[code]|-|-|-|
+|||[3009](https://www.acmicpc.net/problem/3009)|네 번째 점|[code](step/python/3009.py)|[code]|-|-|-|
+|||[4153](https://www.acmicpc.net/problem/4153)|직각삼각형|[code](step/python/4153.py)|[code]|-|-|-|
+|||[3053](https://www.acmicpc.net/problem/3053)|택시 기하학|[code](step/python/3053.py)|[code]|-|-|-|
+|||[1002](https://www.acmicpc.net/problem/1002)|터렛|[code](step/python/1002.py)|[code]|-|-|-|
