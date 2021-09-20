@@ -79,3 +79,7 @@
 |||[4153](https://www.acmicpc.net/problem/4153)|직각삼각형|[code](step/python/4153.py)|[code]|-|-|-|
 |||[3053](https://www.acmicpc.net/problem/3053)|택시 기하학|[code](step/python/3053.py)|[code]|-|-|-|
 |||[1002](https://www.acmicpc.net/problem/1002)|터렛|[code](step/python/1002.py)|[code]|-|-|-|
+|10|재귀|[10872](https://www.acmicpc.net/problem/10872)|팩토리얼|[code](step/python/10872.py)|[code]|-|-|-|
+|||[10870](https://www.acmicpc.net/problem/10872)|피보나치 수 5|[code](step/python/10870.py)|[code]|-|-|-|
+|||[2447](https://www.acmicpc.net/problem/2447)|별 찍기- 10|[code](step/python/2447.py)|[code]|-|-|-|
+|||[11729](https://www.acmicpc.net/problem/11729)|하노이 탑 이동 순서|[code](step/python/11729.py)|[code]|-|-|-|
