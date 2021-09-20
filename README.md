@@ -83,3 +83,8 @@
 |||[10870](https://www.acmicpc.net/problem/10872)|피보나치 수 5|[code](step/python/10870.py)|[code]|-|-|-|
 |||[2447](https://www.acmicpc.net/problem/2447)|별 찍기- 10|[code](step/python/2447.py)|[code]|-|-|-|
 |||[11729](https://www.acmicpc.net/problem/11729)|하노이 탑 이동 순서|[code](step/python/11729.py)|[code]|-|-|-|
+|11|브루트 포스|[2798](https://www.acmicpc.net/problem/2798)|블랙잭|[code](step/python/2798.py)|[code]|-|-|-|
+|||[2231](https://www.acmicpc.net/problem/2231)|분해합|[code](step/python/2231.py)|[code]|-|-|-|
+|||[7568](https://www.acmicpc.net/problem/7568)|덩치|[code](step/python/7568.py)|[code]|-|-|-|
+|||[1018](https://www.acmicpc.net/problem/1018)|체스판 다시 칠하기|[code](step/python/1018.py)|[code]|-|-|-|
+|||[1436](https://www.acmicpc.net/problem/1436)|영화감독 숌|[code](step/python/1436.py)|[code]|-|-|-|
