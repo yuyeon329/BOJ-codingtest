@@ -88,3 +88,13 @@
 |||[7568](https://www.acmicpc.net/problem/7568)|덩치|[code](step/python/7568.py)|[code]|-|-|-|
 |||[1018](https://www.acmicpc.net/problem/1018)|체스판 다시 칠하기|[code](step/python/1018.py)|[code]|-|-|-|
 |||[1436](https://www.acmicpc.net/problem/1436)|영화감독 숌|[code](step/python/1436.py)|[code]|-|-|-|
+|12|정렬|[2750](https://www.acmicpc.net/problem/2750)|수 정렬하기|[code](step/python/2750.py)|[code]|-|-|-|
+|||[2751](https://www.acmicpc.net/problem/2751)|수 정렬하기2|[code](step/python/2751.py)|[code]|-|-|-|
+|||[10989](https://www.acmicpc.net/problem/10989)|정렬하기3|[code](step/python/10989.py)|[code]|-|-|-|
+|||[2108](https://www.acmicpc.net/problem/2108)|통계학|[code](step/python/2108.py)|[code]|-|-|-|
+|||[1427](https://www.acmicpc.net/problem/1427)|소트인사이드|[code](step/python/1427.py)|[code]|-|-|-|
+|||[11650](https://www.acmicpc.net/problem/11650)|좌표 정렬하기|[code](step/python/11650.py)|[code]|-|-|-|
+|||[11651](https://www.acmicpc.net/problem/11651)|좌표 정렬하기2|[code](step/python/11651.py)|[code]|-|-|-|
+|||[1181](https://www.acmicpc.net/problem/1181)|단어 정렬|[code](step/python/1181.py)|[code]|-|-|-|
+|||[10814](https://www.acmicpc.net/problem/10814)|나이순 정렬|[code](step/python/10814.py)|[code]|-|-|-|
+|||[18870](https://www.acmicpc.net/problem/18870)|좌표 압축|[code](step/python/18870.py)|[code]|-|-|-|
