@@ -90,7 +90,7 @@
 |||[1436](https://www.acmicpc.net/problem/1436)|영화감독 숌|[code](step/python/1436.py)|[code]|-|-|-|
 |12|정렬|[2750](https://www.acmicpc.net/problem/2750)|수 정렬하기|[code](step/python/2750.py)|[code]|-|-|-|
 |||[2751](https://www.acmicpc.net/problem/2751)|수 정렬하기2|[code](step/python/2751.py)|[code]|-|-|-|
-|||[10989](https://www.acmicpc.net/problem/10989)|정렬하기3|[code](step/python/10989.py)|[code]|-|-|-|
+|||[10989](https://www.acmicpc.net/problem/10989)|수 정렬하기3|[code](step/python/10989.py)|[code]|-|-|-|
 |||[2108](https://www.acmicpc.net/problem/2108)|통계학|[code](step/python/2108.py)|[code]|-|-|-|
 |||[1427](https://www.acmicpc.net/problem/1427)|소트인사이드|[code](step/python/1427.py)|[code]|-|-|-|
 |||[11650](https://www.acmicpc.net/problem/11650)|좌표 정렬하기|[code](step/python/11650.py)|[code]|-|-|-|
