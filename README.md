@@ -98,3 +98,12 @@
 |||[1181](https://www.acmicpc.net/problem/1181)|단어 정렬|[code](step/python/1181.py)|[code]|-|-|-|
 |||[10814](https://www.acmicpc.net/problem/10814)|나이순 정렬|[code](step/python/10814.py)|[code]|-|-|-|
 |||[18870](https://www.acmicpc.net/problem/18870)|좌표 압축|[code](step/python/18870.py)|[code]|-|-|-|
+|14|백트래킹|[15649](https://www.acmicpc.net/problem/15649)|N과 M(1)|[code](step/python/15649.py)|[code]|-|-|-|
+|||[15650](https://www.acmicpc.net/problem/15650)|N과 M(2)|[code](step/python/15650.py)|[code]|-|-|-|
+|||[15651](https://www.acmicpc.net/problem/15651)|N과 M(3)|[code](step/python/15651.py)|[code]|-|-|-|
+|||[15652](https://www.acmicpc.net/problem/15652)|N과 M(4)|[code](step/python/15652.py)|[code]|-|-|-|
+|||[9663](https://www.acmicpc.net/problem/9663)|N-Queen|[code]|[code](step/java/src/boj_9663/Main.java)|-|-|-|
+|||[2580](https://www.acmicpc.net/problem/2580)|스도쿠|[code]|[code](step/java/src/boj_2580/Main.java)|-|-|-|
+|||[14888](https://www.acmicpc.net/problem/14888)|연산자 끼워넣기|[code](step/python/14888.py)|[code]|-|-|-|
+|||[14889](https://www.acmicpc.net/problem/14889)|스타트와 링크|[code](step/python/14889.py)|[code]|-|-|-|
+
