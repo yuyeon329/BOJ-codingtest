@@ -1,5 +1,6 @@
+import sys
 if __name__ == '__main__':
-    N = int(input())
+    N = int(sys.stdin.readline())
     dp = [0]*(N+1)
 
     for i in range(2, N+1):
