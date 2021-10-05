@@ -106,4 +106,20 @@
 |||[2580](https://www.acmicpc.net/problem/2580)|스도쿠|[code]|[code](step/java/src/boj_2580/Main.java)|-|-|-|
 |||[14888](https://www.acmicpc.net/problem/14888)|연산자 끼워넣기|[code](step/python/14888.py)|[code]|-|-|-|
 |||[14889](https://www.acmicpc.net/problem/14889)|스타트와 링크|[code](step/python/14889.py)|[code]|-|-|-|
+|15|동적 계획법 1|[1003](https://www.acmicpc.net/problem/1003)|피보나치 함수|[code](step/python/1003.py)|[code]|-|-|-|
+|||[9184](https://www.acmicpc.net/problem/9184)|신나는 함수 실행|[code](step/python/9184.py)|[code]|-|-|-|
+|||[1904](https://www.acmicpc.net/problem/1904)|01타일|[code](step/python/1904.py)|[code]|-|-|-|
+|||[9461](https://www.acmicpc.net/problem/9461)|파도반 수열|[code](step/python/9461.py)|[code]|-|-|-|
+|||[1149](https://www.acmicpc.net/problem/1149)|RGB거리|[code](step/python/1149.py)|[code]|-|-|-|
+|||[1932](https://www.acmicpc.net/problem/1932)|정수 삼각형|[code](step/python/1932.py)|[code]|-|-|-|
+|||[2579](https://www.acmicpc.net/problem/2579)|계단 오르기|[code](step/python/2579.py)|[code]|-|-|-|
+|||[1463](https://www.acmicpc.net/problem/1463)|1로 만들기|[code](step/python/1463.py)|[code]|-|-|-|
+|||[10844](https://www.acmicpc.net/problem/10844)|쉬운 계단 수|[code](step/python/10844.py)|[code]|-|-|-|
+|||[2156](https://www.acmicpc.net/problem/2156)|포도주 시식|[code](step/python/2156.py)|[code]|-|-|-|
+|||[11053](https://www.acmicpc.net/problem/11053)|가장 긴 증가하는 부분 수열|[code](step/python/11053.py)|[code]|-|-|-|
+|||[11054](https://www.acmicpc.net/problem/11054)|가장 긴 바이토닉 부분 수열|[code](step/python/11054.py)|[code]|-|-|-|
+|||[2565](https://www.acmicpc.net/problem/2565)|전깃줄|[code](step/python/2565.py)|[code]|-|-|-|
+|||[9251](https://www.acmicpc.net/problem/9251)|LCS|[code](step/python/9251.py)|[code]|-|-|-|
+|||[1912](https://www.acmicpc.net/problem/1912)|연속합|[code](step/python/1912.py)|[code]|-|-|-|
+|||[12865](https://www.acmicpc.net/problem/12865)|평범한 배낭|[code](step/python/12865.py)|[code]|-|-|-|
 
