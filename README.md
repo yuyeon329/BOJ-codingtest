@@ -122,4 +122,9 @@
 |||[9251](https://www.acmicpc.net/problem/9251)|LCS|[code](step/python/9251.py)|[code]|-|-|-|
 |||[1912](https://www.acmicpc.net/problem/1912)|연속합|[code](step/python/1912.py)|[code]|-|-|-|
 |||[12865](https://www.acmicpc.net/problem/12865)|평범한 배낭|[code](step/python/12865.py)|[code]|-|-|-|
+|16|그리디 알고리즘|[11047](https://www.acmicpc.net/problem/11047)|동전 0|[code](step/python/11047.py)|[code]|-|-|-|
+|||[1931](https://www.acmicpc.net/problem/1931)|회의실 배정|[code](step/python/1931.py)|[code]|-|-|-|
+|||[11399](https://www.acmicpc.net/problem/11399)|ATM|[code](step/python/11399.py)|[code]|-|-|-|
+|||[1541](https://www.acmicpc.net/problem/1541)|잃어버린 괄호|[code](step/python/1541.py)|[code]|-|-|-|\
+|||[13305](https://www.acmicpc.net/problem/13305)|주유소|[code](step/python/13305.py)|[code]|-|-|-|
 
