@@ -125,6 +125,23 @@
 |16|그리디 알고리즘|[11047](https://www.acmicpc.net/problem/11047)|동전 0|[code](step/python/11047.py)|[code]|-|-|-|
 |||[1931](https://www.acmicpc.net/problem/1931)|회의실 배정|[code](step/python/1931.py)|[code]|-|-|-|
 |||[11399](https://www.acmicpc.net/problem/11399)|ATM|[code](step/python/11399.py)|[code]|-|-|-|
-|||[1541](https://www.acmicpc.net/problem/1541)|잃어버린 괄호|[code](step/python/1541.py)|[code]|-|-|-|\
+|||[1541](https://www.acmicpc.net/problem/1541)|잃어버린 괄호|[code](step/python/1541.py)|[code]|-|-|-|
 |||[13305](https://www.acmicpc.net/problem/13305)|주유소|[code](step/python/13305.py)|[code]|-|-|-|
-
+|17|정수론 및 조합론|[5086](https://www.acmicpc.net/problem/5086)|배수와 약수|[code](step/python/5086.py)|[code]|-|-|-|
+|||[1037](https://www.acmicpc.net/problem/1037)|약수|[code](step/python/1037.py)|[code]|-|-|-|
+|||[2609](https://www.acmicpc.net/problem/2609)|최대공약수와 최소공배수|[code](step/python/2609.py)|[code]|-|-|-|
+|||[1934](https://www.acmicpc.net/problem/1934)|최소공배수|[code](step/python/1934.py)|[code]|-|-|-|
+|||[2981](https://www.acmicpc.net/problem/2981)|검문|[code](step/python/2981.py)|[code]|-|-|-|
+|||[3036](https://www.acmicpc.net/problem/3036)|링|[code](step/python/3036.py)|[code]|-|-|-|
+|||[11050](https://www.acmicpc.net/problem/11050)|이항 계수 1|[code](step/python/11050.py)|[code]|-|-|-|
+|||[11051](https://www.acmicpc.net/problem/11051)|이항 계수 2|[code](step/python/11051.py)|[code]|-|-|-|
+|||[1010](https://www.acmicpc.net/problem/1010)|다리 놓기|[code](step/python/1010.py)|[code]|-|-|-|
+|||[9375](https://www.acmicpc.net/problem/9375)|패션왕 신해빈|[code](step/python/9375.py)|[code]|-|-|-|
+|||[1676](https://www.acmicpc.net/problem/1676)|팩토리얼 0의 개수|[code](step/python/1676.py)|[code]|-|-|-|
+|||[2004](https://www.acmicpc.net/problem/2004)|조합 0의 개수|[code](step/python/2004.py)|[code]|-|-|-|
+|18|스택|[10828](https://www.acmicpc.net/problem/10828)|스택|[code]|[code](step/java/src/boj_10828/Main.java)|-|-|-|
+|||[10773](https://www.acmicpc.net/problem/10773)|제로|[code]|[code](step/java/src/boj_10773/Main.java)|-|-|-|
+|||[9012](https://www.acmicpc.net/problem/9012)|괄호|[code]|[code](step/java/src/boj_9012/Main.java)|-|-|-|
+|||[4949](https://www.acmicpc.net/problem/4949)|균형잡힌 세상|[code]|[code](step/java/src/boj_4949/Main.java)|-|-|-|
+|||[1874](https://www.acmicpc.net/problem/1874)|스택 수열|[code]|[code](step/java/src/boj_1874/Main.java)|-|-|-|
+|||[17298](https://www.acmicpc.net/problem/17298)|오큰수|[code]|[code](step/java/src/boj_17298/Main.java)|-|-|-|
