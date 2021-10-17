@@ -9,7 +9,6 @@ public class Main {
         int T = sc.nextInt();
         for(int i = 0; i<T; i++){
             ArrayList<Character> mystack = new ArrayList<>();
-            int top = -1;
             String tmp = sc.next();
             for(int j = 0; j<tmp.length();j++){
                 char str1 = tmp.charAt(j);
