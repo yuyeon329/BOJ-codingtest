@@ -145,3 +145,10 @@
 |||[4949](https://www.acmicpc.net/problem/4949)|균형잡힌 세상|[code]|[code](step/java/src/boj_4949/Main.java)|-|-|-|
 |||[1874](https://www.acmicpc.net/problem/1874)|스택 수열|[code]|[code](step/java/src/boj_1874/Main.java)|-|-|-|
 |||[17298](https://www.acmicpc.net/problem/17298)|오큰수|[code]|[code](step/java/src/boj_17298/Main.java)|-|-|-|
+|19|큐, 덱|[18258](https://www.acmicpc.net/problem/18258)|큐 2|[code]|[code](step/java/src/boj_18258/Main.java)|-|-|-|
+|||[2164](https://www.acmicpc.net/problem/2164)|카드2|[code]|[code](step/java/src/boj_2164/Main.java)|-|-|-|
+|||[11866](https://www.acmicpc.net/problem/11866)|요세푸스 문제0|[code]|[code](step/java/src/boj_11866/Main.java)|-|-|-|
+|||[1966](https://www.acmicpc.net/problem/1966)|프린터 큐|[code]|[code](step/java/src/boj_1966/Main.java)|-|-|-|
+|||[10866](https://www.acmicpc.net/problem/10866)|덱|[code]|[code](step/java/src/boj_10866/Main.java)|-|-|-|
+|||[1021](https://www.acmicpc.net/problem/1021)|회전하는 큐|[code]|[code](step/java/src/boj_1021/Main.java)|-|-|-|
+|||[5430](https://www.acmicpc.net/problem/5430)|AC|[code]|[code](step/java/src/boj_5430/Main.java)|-|-|-|
