@@ -1,5 +1,6 @@
 package boj_1780;
 import java.util.*;
+
 public class Main{
 
     public static StringBuilder sb = new StringBuilder();
