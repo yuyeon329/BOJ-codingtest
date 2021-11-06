@@ -152,3 +152,20 @@
 |||[10866](https://www.acmicpc.net/problem/10866)|덱|[code]|[code](step/java/src/boj_10866/Main.java)|-|-|-|
 |||[1021](https://www.acmicpc.net/problem/1021)|회전하는 큐|[code]|[code](step/java/src/boj_1021/Main.java)|-|-|-|
 |||[5430](https://www.acmicpc.net/problem/5430)|AC|[code]|[code](step/java/src/boj_5430/Main.java)|-|-|-|
+|20|분할 정복|[2630](https://www.acmicpc.net/problem/2630)|색종이 만들기|[code]|[code](step/java/src/boj_2630/Main.java)|-|-|-|
+|||[1992](https://www.acmicpc.net/problem/1992)|쿼드트리|[code]|[code](step/java/src/boj_1992/Main.java)|-|-|-|
+|||[1780](https://www.acmicpc.net/problem/1780)|종이의 개수|[code]|[code](step/java/src/boj_1780/Main.java)|-|-|-|
+|||[1629](https://www.acmicpc.net/problem/1629)|곱셈|[code]|[code](step/java/src/boj_1629/Main.java)|-|-|-|
+|||[11401](https://www.acmicpc.net/problem/11401)|이항 계수 3|[code]|[code](step/java/src/boj_11401/Main.java)|-|-|-|
+|||[2740](https://www.acmicpc.net/problem/2740)|행렬 곱셈|[code]|[code](step/java/src/boj_2740/Main.java)|-|-|-|
+|||[10830](https://www.acmicpc.net/problem/10830)|행렬 제곱|[code]|[code](step/java/src/boj_10830/Main.java)|-|-|-|
+|||[11444](https://www.acmicpc.net/problem/11444)|피보나치 수 6|[code]|[code](step/java/src/boj_11444/Main.java)|-|-|-|
+|||[6549](https://www.acmicpc.net/problem/6549)|히스토그램에서 가장 큰 직사각형|[code]|[code]|-|-|-|
+|||[2261](https://www.acmicpc.net/problem/2261)|가장 가까운 두 점|[code]|[code]|-|-|-|
+|21|이분 탐색|[1920](https://www.acmicpc.net/problem/1920)|수 찾기|[code]|[code](step/java/src/boj_1920/Main.java)|-|-|-|
+|||[10816](https://www.acmicpc.net/problem/10816)|숫자 카드 2|[code]|[code](step/java/src/boj_10816/Main.java)|-|-|-|
+|||[1654](https://www.acmicpc.net/problem/1654)|랜선 자르기|[code](step/python/1654.py)|[code]|-|-|-|
+|||[2805](https://www.acmicpc.net/problem/2805)|나무 자르기|[code](step/python/2805.py)|[code]|-|-|-|
+|||[2110](https://www.acmicpc.net/problem/2110)|공유기 설치|[code]|[code](step/java/src/boj_2110/Main.java)|-|-|-|
+|||[1300](https://www.acmicpc.net/problem/1300)|K번째 수|[code]|[code](step/java/src/boj_1300/Main.java)|-|-|-|
+|||[12015](https://www.acmicpc.net/problem/12015)|가장 긴 증가하는 부분 수열2|[code]|[code](step/java/src/boj_12015/Main.java)|-|-|-|
